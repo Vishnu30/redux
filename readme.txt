@@ -1,0 +1,1 @@
+To run redux just go to that folder and run command npm run start in cmd .
